@@ -1,0 +1,2 @@
+# basetemplate
+Template Server FiveM
